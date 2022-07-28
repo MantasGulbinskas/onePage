@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+section {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+
+  .contents {
+    background-color: white;
+    width: 17rem;
+    padding: 2rem 1rem;
+    margin-right: 30px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 0 rgba(0, 0 ,0 ,0.2);
+  }
+  .icon {
+    color: #2487ce;
+    font-size: 2rem;
+  }
+
+  .title {
+    color: #2487ce;
+    font-family: 'Raleway', sans-serif;
+
+  }
+  .text-content {
+p {
+  color: #444444;
+  font-family: 'Poppins', sans-serif;
+
+}
+  }
+}
